@@ -1,2 +1,2 @@
 # landing
-my test project
+my awesome test project
