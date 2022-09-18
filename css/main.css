@@ -1,0 +1,56 @@
+.title {
+    width: 100%;
+    /* margin: auto; */
+    text-align: center;
+    margin: 30px auto;
+}
+
+/* .main__text-info {
+    margin-top: 15px;
+} */
+
+.main__text-info p {
+    text-align: justify;
+}
+
+#video {
+    float:left;
+    margin-right: 10px;
+}
+
+.vinyl__title {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.vinyl__card-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vinyl__card {
+    width: 30%;
+}
+
+.vinyl__card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.vinyl__card-footer {
+    margin: 10px auto;
+    text-align: center
+}
+
+.vinyl__card-button {
+    background-color:rgb(166, 221, 88);
+    width: 150px;
+    height: 35px;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.vinyl__card-button:hover {
+    background-color:rgb(236, 182, 82)
+}
